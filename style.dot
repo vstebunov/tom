@@ -1,0 +1,4 @@
+bgcolor="#eeeeee"
+color="#373a40"
+edge[color="#373A40"]
+node[fontsize=10 fontname="Helvetica" shape=circle style=filled fontcolor="#eeeeee" color="#373A40"]

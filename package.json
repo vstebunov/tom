@@ -1,0 +1,19 @@
+{
+  "name": "tom",
+  "version": "1.0.0",
+  "main": "graph.js",
+  "scripts": {
+    "dev": "node index.js",
+    "calc": "node calc.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.1",
+    "numeralize-ru": "^2.0.0",
+    "open": "^10.1.0"
+  }
+}
