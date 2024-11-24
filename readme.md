@@ -17,4 +17,4 @@ npm run calc
 
 Результат последнего запуска:
 
-[img](result.svg)
+![img](result.svg)
